@@ -1,10 +1,6 @@
 <<<<<<< HEAD
-Amanda
-Nicole 3:31
-=======
 Amanda-3:31PM
 Nicole 
->>>>>>> 38c4e70d9bd9a41b2666c007715ad974138bc315
 Lenny
-Ethan
+Ethan - 3:58 PM
 
